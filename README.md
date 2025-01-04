@@ -1,9 +1,9 @@
 - I'm Antti Paasi. I study Automation Engineering at the University of Tampere.
 - Main areas of interest: controls engineering, embedded systems, modeling and simulation
-- Capabilities: Javascript Google Apps Script applications
-- Matlab code and Simulink modeling
-- Embedded Arduino coding in C++   
-- Python and its machine learning and audio processing packages
+- Capabilities: Javascript, Google Apps script applications
+- Matlab and Simulink modeling
+- Arduino coding in C++   
+- Python machine learning and audio processing packages
 
 
 
