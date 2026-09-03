@@ -1,5 +1,4 @@
-- Automation Engineering studet at Tampere University
-- Main areas of interest: controls engineering, embedded systems, modeling and simulation
+- Automation Engineering student at Tampere University
 
 
 
